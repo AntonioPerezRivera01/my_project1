@@ -15,4 +15,9 @@ func main() {
 	} else{
 		log.Println("Espero si llegues lejos man")
 	}
+
+	//Integracion del ciclo for
+	for i := 0; i < 10; i++ {
+		log.Println("*")
+	}
 }
