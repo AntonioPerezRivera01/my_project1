@@ -9,4 +9,8 @@ func main() {
 	} else {
 		log.Println("Hola mundo como estas")
 	}
+
+	if 1==1{
+		log.Println("Hola Hermoso llegaras lejos")
+	}
 }
