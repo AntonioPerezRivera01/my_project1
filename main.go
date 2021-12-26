@@ -12,5 +12,7 @@ func main() {
 
 	if 1==1{
 		log.Println("Hola Hermoso llegaras lejos")
+	} else{
+		log.Println("Espero si llegues lejos man")
 	}
 }
