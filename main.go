@@ -10,9 +10,13 @@ func main() {
 		log.Println("Hola mundo como estas")
 	}
 
-	if 1==1{
+	if 1 == 1 {
 		log.Println("Hola Hermoso llegaras lejos")
-	} else{
+	} else {
 		log.Println("Espero si llegues lejos man")
+	}
+
+	for x := 0; x < 10; x++ {
+		log.Println("Valor: " + string(x))
 	}
 }
