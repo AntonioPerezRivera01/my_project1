@@ -19,15 +19,4 @@ func main() {
 	for x := 0; x < 10; x++ {
 		log.Println("Valor: " + string(x))
 	}
-
-	animal := "Lobo"
-	switch animal {
-	case "Lobo":
-		log.Println("Es un Lobo")
-		break
-	case "Perro":
-		log.Println("Es un Perro")
-		break
-
-	}
 }
